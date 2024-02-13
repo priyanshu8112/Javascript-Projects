@@ -1,1 +1,1 @@
-# Javascript-Projects
+#News app
